@@ -1,0 +1,1 @@
+http://programer.in.ua/index.php/uroky/uroky-python
